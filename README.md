@@ -1,0 +1,2 @@
+# ArcoLinuxB-pantheon Calamares configuration
+
